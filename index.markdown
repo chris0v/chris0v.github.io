@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Test Titel
+title: Test Title
 ---
-Hello World
+Hello World!
+
+This is a KaTeX test.
 
 $$E = mc^2$$
-
